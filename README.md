@@ -43,13 +43,3 @@ I build robust data pipelines, predictive models, and web automation solutions f
 - [PUC Monitor](https://github.com/username/puc-monitor) – Web monitoring & alert system   
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessandroGasparetti&show_icons=true&theme=radical)
-
----
-
-## 📫 Contact
-- 🌐 Website: [davideghidelli.com](https://davideghidelli.com)  
-- ✉️ Email: your-email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/alessandro](https://linkedin.com/in/alessandro)
