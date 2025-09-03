@@ -17,7 +17,7 @@ I build reliable pipelines, automation systems, and backend services — integra
 **Web Scraping & Automation**  
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-258BCB?style=for-the-badge) ![aiohttp](https://img.shields.io/badge/-aiohttp-0055A5?style=for-the-badge) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge) ![n8n](https://img.shields.io/badge/-n8n-EA4B8B?logo=n8n&logoColor=white&style=for-the-badge)
 
-**Backend & Databases**
+**Backend & Databases**  
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Platforms**  
