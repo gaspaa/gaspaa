@@ -1,7 +1,7 @@
 # Alessandro Gasparetti  
 
 🚀 **Python Developer** specialized in **web scraping**, **data automation**, and **custom workflows**.  
-I design reliable pipelines that extract, clean, and deliver data at scale — powering business decisions and automating repetitive tasks.  
+I design reliable pipelines that extract, clean, and deliver data at scale - powering business decisions and automating repetitive tasks.  
 
 - 🔭 Currently building **web scraping pipelines** & **automation systems**  
 - ⚡ Experienced with **n8n**, custom bots, and API integrations  
