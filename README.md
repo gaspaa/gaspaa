@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alessandro Gasparetti  
+# Alessandro Gasparetti  
 
 🚀 **Python Developer** specialized in **web scraping**, **data automation**, and **custom workflows**.  
 I design reliable pipelines that extract, clean, and deliver data at scale — powering business decisions and automating repetitive tasks.  
