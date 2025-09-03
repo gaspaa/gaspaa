@@ -25,7 +25,7 @@ I build reliable pipelines, automation systems, and backend services — integra
 
 ---
 
-## 📂 Featured Project  
+## 📂 Projects 
 
 - [**PUC Monitor**](https://github.com/username/puc-monitor) – Web monitoring & alert system  
 
