@@ -1,6 +1,6 @@
 # Alessandro Gasparetti  
 
-🚀 **Python Developer** specialized in **web scraping**, **data automation**, and **backend development**.  
+🐍 **Python Developer** specialized in **web scraping**, **data automation**, and **backend development**.  
 I build reliable pipelines, automation systems, and backend services — integrating data, APIs, and databases to power real-world applications.  
 
 - 🔭 Currently building **web scraping pipelines**, **automation systems**, and **backend services**  
