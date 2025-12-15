@@ -1,11 +1,11 @@
 # Alessandro Gasparetti  
 
-🐍 **Python Developer** specialized in **web scraping**, **data automation**, and **backend development**.  
+🐍 **Python Developer** specialized in **web scraping**, **data automation**, and **backend development**.   
 I build reliable pipelines, automation systems, and backend services — integrating data, APIs, and databases to power real-world applications.  
 
 - 🔭 Currently building **web scraping pipelines**, **automation systems**, and **backend services**  
-- ⚡ Experienced with **APIs**, and custom bots  
-- 💼 Providing freelance services in **backend development, web automation & data-driven solutions**  
+- ⚡ Experienced with **APIs**, **data extraction**, and **custom automation bots**  
+- 💼 Providing freelance services in **backend development**, **web automation** & **data-driven solutions**  
 
 ---
 
@@ -18,15 +18,21 @@ I build reliable pipelines, automation systems, and backend services — integra
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-258BCB?style=for-the-badge) ![Aiohttp](https://img.shields.io/badge/aiohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
 
 **Backend & Databases**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg? style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed. svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
-## 📂 Projects 
+## 📂 Featured Projects 
 
-- [**PUC Monitor**](https://github.com/username/puc-monitor) – Web monitoring & alert system  
+- [**PUC Monitor**](https://github.com/gaspaa/puc-monitor) – Web monitoring & alert system for tracking changes and sending notifications  
 
 ---
+
+## 📫 Let's Connect  
+
+I'm open to collaborations, freelance projects, and interesting opportunities in backend development and data automation.   
+
+[![GitHub](https://img.shields.io/badge/GitHub-gaspaa-181717?style=for-the-badge&logo=github)](https://github.com/gaspaa)
