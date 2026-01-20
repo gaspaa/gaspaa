@@ -22,7 +22,7 @@ I build production-ready scraping systems, automation pipelines, and APIs that e
 ## 🛠 Tech Stack  
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 **Web Scraping & Automation**  
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-258BCB?style=for-the-badge) ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white) ![Aiohttp](https://img.shields.io/badge/aiohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Requests](https://img.shields.io/badge/-Requests-FF6600?style=for-the-badge)
