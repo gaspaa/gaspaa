@@ -40,7 +40,7 @@ I build production-ready scraping systems, automation pipelines, and APIs that e
 
 ## 📂 Featured Projects 
 
-- [**PUC Monitor**](https://github.com/gaspaa/puc-monitor) – Web monitoring & alert system for tracking changes and sending notifications  
+- [**PUC Monitor**](https://www.linkedin.com/posts/alessandro-gasparetti_python-aws-lambda-activity-7415029576378167297-PN94) – Web monitoring & alert system for tracking changes and sending notifications  
 
 *More projects coming soon – currently organizing repositories to showcase additional work in scraping, automation, and API development*
 
