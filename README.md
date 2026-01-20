@@ -46,21 +46,9 @@ I build production-ready scraping systems, automation pipelines, and APIs that e
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaspaa&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaspaa&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Let's Connect  
 
 I'm open to collaborations, freelance projects, and interesting opportunities in backend development and data automation.   
 
 [![GitHub](https://img.shields.io/badge/GitHub-gaspaa-181717?style=for-the-badge&logo=github)](https://github.com/gaspaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-
----
-
-💡 *Tip: Check out my pinned repositories below for examples of my work!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alessandro-gasparetti)
